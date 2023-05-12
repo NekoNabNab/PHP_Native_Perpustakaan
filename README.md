@@ -14,7 +14,7 @@ Display Of React Perpustakaan Online
 <h1>History Peminjaman</h1>
 <img src="https://github.com/NekoNabNab/PHP_Native_Perpustakaan/blob/master/HistoriPeminjaman.jpg"/><br />
 <h1>CRUD Siswa</h1>
-<img src="https://github.com/NekoNabNab/PHP_Native_Perpustakaan/blob/master/CRUD_Buku.jpg"/><br />
+<img src="https://github.com/NekoNabNab/PHP_Native_Perpustakaan/blob/master/DataSiswa.jpg"/><br />
 <h1>Tambah Siswa</h1>
 <img src="https://github.com/NekoNabNab/PHP_Native_Perpustakaan/blob/master/TambahSiswa.jpg"/><br />
 <h1>Tambah Kelas</h1>
